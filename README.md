@@ -1,5 +1,5 @@
-https://capsule-render.vercel.app/api?
 ![header](https://capsule-render.vercel.app/api?type=shark=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### Hi there 👋
 
@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpwls2&layout=compact)](https://github.com/gpwls2/github-readme-stats)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpwls2&show_icons=true&theme=vue)
