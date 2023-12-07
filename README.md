@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFDEAD&height=90&section=header)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FFDEAD&height=200&section=header&text=hyejin%20world!)
 #
-<div align=center>### Introduction👋</div>
+### <div align=center>Introduction👋</div>
 <!--
 **gpwls2/gpwls2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
