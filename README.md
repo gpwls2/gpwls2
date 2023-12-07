@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFE4E1&height=30&section=header)
-![header](https://capsule-render.vercel.app/api?type=venom&color=FFE4E1&height=200&section=header&text=hyejin%20world!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC0CB&height=30&section=header)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFC0CB&height=200&section=header&text=hyejin%20world!)
 #
 ### <div align=center>🙌Introduction🙌</div>
 <div align=center>안녕하세용 제 이름은 조혜진이고 20살이에요</div>
