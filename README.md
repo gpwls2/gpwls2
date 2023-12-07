@@ -10,9 +10,17 @@
 
 #
 ### <div align=center>🎶My favorite music🎶</div>
-<div align=center>[김현창-아침만 남겨주고](https://www.youtube.com/watch?v=ciDT-csnX20)</div>
+[slchld - you won't be there for me](https://www.youtube.com/watch?v=muLqukEiVm4)
 
-  
+[The Kid LAROI - ALWAYS DO](https://www.youtube.com/watch?v=tZsia6-aBZM)
+
+[김나영 - 이별후회](https://youtu.be/vnDc9iH5eB4?si=uijp7ERhyYOZzd7R)
+
+[BLOO - 데려가(feat. nafla)](https://www.youtube.com/watch?v=NAgHSB4M-BA)
+
+[Leellamarz - 거리에서](https://www.youtube.com/watch?v=oPVxdNe1hrk)
+
+
 #
 ### <div align=center>💡More about me💡</div> 
 <div align=center><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/whgpwlsp/">
