@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFDEAD&height=50&section=header)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFDEAD&height=60&section=header)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FFDEAD&height=200&section=header&text=hyejin%20world!)
 #
 ### Hi there 👋
