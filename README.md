@@ -2,6 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=FFDEAD&height=200&section=header&text=hyejin%20world!)
 #
 ### <div align=center>Introduction🙌</div>
+<div align=center>안녕하세용 제 이름은 조혜진이고 20살이에요 
+  생일은 2월 7일이에요!</div>
 <!--
 **gpwls2/gpwls2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpwls2&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gpwls2)](https://solved.ac/gpwls2)<br/>
 
