@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFDEAD&height=30&section=header)
-![header](https://capsule-render.vercel.app/api?type=venom&color=ADFF2F&height=200&section=header&text=hyejin%20world!)
+![header](https://capsule-render.vercel.app/api?type=venom&color=98FB98&height=200&section=header&text=hyejin%20world!)
 #
 ### Hi there 👋
 
