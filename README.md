@@ -30,5 +30,5 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpwls2&show_icons=true&theme=graywhite)
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFE4E1&height=30&section=header)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FFC0CB&height=30&section=header)
 
