@@ -4,8 +4,8 @@
 ### <div align=center>Introduction🙌</div>
 <div align=center>안녕하세용 제 이름은 조혜진이고 20살이에요 
  <img width="80%" src="https://github.com/gpwls2/gpwls2/assets/144201223/d03493ae-1bff-432d-ab5f-58fd2306a831"/>
-생일은 2월 7일이에요!
-<img width="80%" src="https://github.com/gpwls2/gpwls2/assets/144201223/7c5b4a52-c194-476e-ac67-5abf6336a882"/>
+생일은 2월 7일이에요!</div>
+<div align=center><img width="80%" src="https://github.com/gpwls2/gpwls2/assets/144201223/7c5b4a52-c194-476e-ac67-5abf6336a882"/>
  이건 제가 좋아하는 캐릭터입니담!-!</div>
 <!--
 **gpwls2/gpwls2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
